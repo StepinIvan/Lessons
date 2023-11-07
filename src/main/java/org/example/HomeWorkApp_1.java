@@ -1,6 +1,6 @@
 package org.example;
 
-public class HomeWorkApp {
+public class HomeWorkApp_1 {
     public static void main(String[] args) {
         System.out.println("Прописанный метод main()");
         printThreeWords();
